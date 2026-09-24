@@ -24,6 +24,7 @@ body {
     min-height: 100vh;
     background-color: var(--yellow);
     display: flex;
+    gap: 2rem;
     justify-content: center;
     align-items: center;
 }
